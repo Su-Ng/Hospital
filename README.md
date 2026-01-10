@@ -30,10 +30,7 @@ The most popular procedures are chemotherapy and Renal Dialysis.
     <img width="420" height="440" alt="Procedure Cost" src="ProcedureCost.png" />
 </p>
 
+The most costly procedure is Electrical cardioversion
 
-# 10 most Expensive Procedures
-<p>
-    The nost costly procedure is Electrical cardioversion
-</p>
 
 
