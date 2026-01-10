@@ -25,6 +25,7 @@ Low inpatient encouters indicate effective preventive care and outpatient manage
 </p>
 
 The most popular procedures are chemotherapy and Renal Dialysis.
+
 # 10 most Costly Procedures 
 <p>
     <img width="420" height="440" alt="Procedure Cost" src="ProcedureCost.png" />
