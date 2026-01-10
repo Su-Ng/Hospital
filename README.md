@@ -13,6 +13,6 @@ Patient Encounters peaked at year 2014, approximately 3,8K, followed by a declin
 
 # Patient Type Analysis
 <p>
-    <img width="572" height="456" alt="PatientType" src="PatientType.png" />
+    <img width="420" height="440" alt="PatientType" src="PatientType.png" />
 </p>
 
