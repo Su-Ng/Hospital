@@ -50,7 +50,9 @@ Weekdays are busier than weekend for the hospital. Wednesday is the busiest day.
 Inpatient and Urgent care have the highest average cost. Recommend to promote outpatient and ambulatory care for non-critical cases to reduce costs.
 
 # Total Insurance Claims by Insurance Providerss
-
+<p>
+    <img width="220" height="240" alt="InsuranceType" src="InsuranceClaims.png" />
+</p>
 
 Recommend to Strengthen partnerships with top insurance providers to negotiate better coverage terms.
 
