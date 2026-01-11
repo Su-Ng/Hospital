@@ -25,6 +25,7 @@ Low inpatient encounters indicate effective preventive care and outpatient manag
     <img width="420" height="440" alt="AgeRangePatient" src="AgeRangePatients.png" />
 </p>
 The highest age group of the hospital patients is between 95 to 99.
+
 # 10 most Popular Procedures
 
 <p>
