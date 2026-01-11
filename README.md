@@ -35,5 +35,8 @@ The most popular procedures are chemotherapy and Renal Dialysis.
 
 The most costly procedure is Electrical cardioversion
 
+# Busiest Day of the Week
+
+Weekdays are busier than weekend for the hospital. Wednesday is the busiest day. Peak hours for patient admissions are 5am, 7 and 9pm.
 
 
