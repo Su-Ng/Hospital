@@ -20,6 +20,11 @@ Patient Encounters peaked at year 2014, approximately 3.8K, followed by a declin
 High number of Ambulatory Patients, 12K indicating high reliance on walk in , non emergency cases. Low number of Inpatients, 1K indicating high performance in outpatient services, reducing the need for hospitalization. 
 Low inpatient encounters indicate effective preventive care and outpatient management strategies.
 
+# Patient Age Demography
+<p>
+    <img width="420" height="440" alt="AgeRangePatient" src="AgeRangePatient.png" />
+</p>
+The highest age group of the hospital patients is between 95 to 99.
 # 10 most Popular Procedures
 
 <p>
