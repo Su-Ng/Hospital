@@ -51,8 +51,13 @@ Inpatient and Urgent care have the highest average cost. Recommend to promote ou
 
 # Total Insurance Claims by Insurance Providers
 <p>
+    <img width="220" height="240" alt="InsuranceType" src="InsuranceCoverage.png" />
+</p>
+
+<p>
     <img width="220" height="240" alt="InsuranceType" src="InsuranceClaims.png" />
 </p>
+
 
 Recommend to Strengthen partnerships with top insurance providers to negotiate better coverage terms.
 
