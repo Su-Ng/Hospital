@@ -40,6 +40,6 @@ The most costly procedure is Electrical cardioversion
     <img width="420" height="440" alt="PatientType" src="AdmissionTimes.png" />
 </p>
 
-Weekdays are busier than weekend for the hospital. Wednesday is the busiest day. Peak hours for patient admissions are 5am, 7 and 9pm.
+Weekdays are busier than weekend for the hospital. Wednesday is the busiest day. Peak hours for patient admissions are 5am, 5 to 9pm.
 
 
