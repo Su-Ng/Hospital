@@ -40,6 +40,10 @@ The most costly procedure is Electrical cardioversion
     <img width="420" height="440" alt="PatientType" src="AdmissionTimes.png" />
 </p>
 
-Weekdays are busier than weekend for the hospital. Wednesday is the busiest day. Peak hours for patient admissions are 5am, 5 to 10pm.
+Weekdays are busier than weekend for the hospital. Wednesday is the busiest day. Peak hours for patient admissions are 5am, 5 to 10pm. Recommend to increase manpower at peak hours.
+
+
+# Most Costly Hospital Visits
+Inpatient aand Urgent care have the highest average cost. Recommendation to promote outpatient and ambulatory care for non-critical cases to reduce costs.
 
 
