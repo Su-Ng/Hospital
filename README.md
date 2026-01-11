@@ -68,4 +68,4 @@ Recommend to Strengthen partnerships with top insurance providers to negotiate b
 
 # Conclusion
 
-The dashboard provides data-driven decision making at Massachussetts General Hospital. By leveraging on insights on patient encounters, financial claim trends, efficiencies in procedures, the hospital can enhance care delivery, manage costs and improve patient outcomes. Futher iterations of the dashboard can imcorporate real-time data and predictive analytics to further support strategic planning. 
+The dashboard provides data-driven decision making at Massachussetts General Hospital. By leveraging on insights on patient encounters, financial claim trends, efficiencies in procedures, the hospital can enhance care delivery, manage costs and improve patient outcomes. Futher iterations of the dashboard can incorporate real-time data and predictive analytics to further support strategic planning. 
