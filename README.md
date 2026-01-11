@@ -44,6 +44,9 @@ Weekdays are busier than weekend for the hospital. Wednesday is the busiest day.
 
 
 # Most Costly Hospital Visits
+<p>
+    <img width="420" height="440" alt="PatientType" src="AverageHospitalCosts.png" />
+</p>
 Inpatient aand Urgent care have the highest average cost. Recommendation to promote outpatient and ambulatory care for non-critical cases to reduce costs.
 
 
