@@ -10,7 +10,7 @@ Identify missing values,duplicate rows,Inconsistent categorical entries\
 Fixing missing values, standardize gender values, standardize date values\
 Querying patient records with specific conditions like Diabetes 2\
 Querying and presenting results from joining tables using SQL\
-[Project 1](./LAB_Cleaning_and_Validating_Healthcare_Data_Using_Python.ipynb)
+[Project 1](./Project_Healthcare_Data_Integration_and_Analysis.ipynb)
 
 
 # Project 2: Hospital Analytics
