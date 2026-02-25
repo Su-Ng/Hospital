@@ -1,15 +1,24 @@
 # Executive Summary
 This repository consists of 2 projects :\
+\
 Project 1: Healthcare Data Integration and Analysis( Data Cleaning and Querying)\
 Skillsets: Python, SQL\
+\
 Project 2: Hospital Analytics(Data Visualization)\
 Skillsets: PowerBI
+
 # Project 1: Healthcare Data Integration and Analysis
-This project is about using an Electronic Health Record(EHR) to do the following:\
-Identify missing values,duplicate rows,Inconsistent categorical entries\
-Fixing missing values, standardize gender values, standardize date values\
-Querying patient records with specific conditions like Diabetes 2\
-Querying and presenting results from joining tables using SQL\
+This project is about using an Electronic Health Record(EHR) to do the following:
+
+- identify missing values
+- identify duplicate rows
+- inconsistent categorical entries
+- Fixing missing values
+- standardize gender values
+- standardize date values
+- Querying patient records with specific conditions like Diabetes 2
+- Querying and presenting results from joining tables using SQL
+\
 [Project 1](./Project_Healthcare_Data_Integration_and_Analysis.ipynb)
 
 
