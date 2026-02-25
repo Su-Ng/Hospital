@@ -10,12 +10,12 @@ Skillsets: PowerBI
 # Project 1: Healthcare Data Integration and Analysis
 This project is about using an Electronic Health Record(EHR) to do the following:
 
-- identify missing values
-- identify duplicate rows
-- inconsistent categorical entries
+- Identify missing values
+- Identify duplicate rows
+- Inconsistent categorical entries
 - Fixing missing values
-- standardize gender values
-- standardize date values
+- Standardize gender values
+- Standardize date values
 - Querying patient records with specific conditions like Diabetes 2
 - Querying and presenting results from joining tables using SQL
 \
