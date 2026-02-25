@@ -1,4 +1,19 @@
-# Hospital Analytics
+# Executive Summary
+This repository consists of 2 projects :\
+Project 1: Healthcare Data Integration and Analysis( Data Cleaning and Querying)\
+Skillsets: Python, SQL\
+Project 2: Hospital Analytics( Data Visualization and Recommendation)\
+Skillsets: PowerBI
+# Project 1: Healthcare Data Integration and Analysis
+This project is about using an Electronic Health Record(EHR) to do the following:\
+Identify missing values,duplicate rows,Inconsistent categorical entries\
+Fixing missing values, standardize gender values, standardize date values\
+Querying patient records with specific conditions like Diabetes 2\
+Querying and presenting results from joining tables using SQL\
+[Project 1](./LAB_Cleaning_and_validating_Healthcare_Data_Using_Python.ipynb)
+
+
+# Project 2: Hospital Analytics
 This repository is an in depth analysis on Massachusetts General Hospital. Part of Data Challenge by Maven Analytics.
 This project analyzes hospital operations using Maven Analytics Hospital Challenge. Useful information was extracted from patient encounters, financial claims and patient demographics from Massachussetts Hospital.
 Key Metrics include:
