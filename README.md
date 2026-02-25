@@ -2,7 +2,7 @@
 This repository consists of 2 projects :\
 Project 1: Healthcare Data Integration and Analysis( Data Cleaning and Querying)\
 Skillsets: Python, SQL\
-Project 2: Hospital Analytics( Data Visualization and Recommendation)\
+Project 2: Hospital Analytics(Data Visualization)\
 Skillsets: PowerBI
 # Project 1: Healthcare Data Integration and Analysis
 This project is about using an Electronic Health Record(EHR) to do the following:\
